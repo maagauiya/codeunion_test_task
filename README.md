@@ -8,7 +8,7 @@
 ```pip install -r requirements.txt```
 **2. Настройка конфигурации**
 Создайте файл .env в той же директории, что и ваш скрипт, и добавьте переменные: <br>
-**EXAMPLE** <br>
+**examples** <br>
 * ```SECRET_KEY=FDDJKDJW(*#)(@*@(#@*#)(@*#)(@*#()@``` <br>
 * ```DEBUG=True```<br>
 
